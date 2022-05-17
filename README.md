@@ -1,33 +1,31 @@
 # Project Title
 
-One Paragraph of project description goes here.
+Print_city_info
+This will print each person Information
 
 ## Getting Started
 
-These instructions will [do something] on your local machine for [development/experimentation/demo].
+These instructions will run on your local machine for running the code and printing people information.
 
 ### Prerequisites
 
-[Project] requires [software and version] to run, with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
+Print_City_info requires python to run, with. The commands below will show you how to download python and run the code.
 
-```
-sudo apt update
-sudo apt upgrade
-sudo apt install package1 package2
-```
+
+https://www.python.org/downloads/
+
 
 ## Running
 Once installed you can run the program with the following command
 
-```
-python cna_demo.py
-```
+python Print_City_info.py
+
 
 Add any additional ways to run the program below
 
-```
-python cna_demo.py test.txt
-```
+
+python Print_city_info.py test.txt
+
 
 ## Thanks
 Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
